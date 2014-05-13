@@ -1,0 +1,40 @@
+html {
+  background: #fff;
+}
+
+.backfaceVisibility {
+  -webkit-backface-visibility: visible;
+  backface-visibility: visible;
+}
+
+.mainCard {
+  background-image: url(http://slowbuddy.com/wp-content/gallery/pattern-backgrounds/1aa3baa861a49c729c0c3125b1c84265.jpg);
+
+}
+
+.leftText {
+  font-family: 'Lato', sans-serif;
+  padding-top: 7rem;
+  padding-left: 2rem;
+}
+
+.logo {
+  margin-left: -1.5rem;
+  margin-top: 0.5rem;
+  padding: 1rem;
+}
+
+.logo:hover {
+  cursor: pointer;
+}
+
+.contactInfo {
+  padding-top: 2.5rem;
+  padding-left: 1rem;
+}
+
+.contactInfo a {
+  text-decoration: none;
+  color: white;
+  font-size: 1.2rem;
+}
